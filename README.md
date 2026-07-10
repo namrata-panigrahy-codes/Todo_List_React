@@ -7,6 +7,7 @@ Mark tasks as completed.
 Delete tasks.
 Instant UI updates using React state.
 Clean and responsive user interface.
+Display a welcome message for users.
 🛠️ Tech Stack
 React.js
 JavaScript (ES6+)
