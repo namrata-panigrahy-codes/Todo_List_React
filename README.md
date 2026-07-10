@@ -1,16 +1,27 @@
-# React + Vite
+✅ Todo Application
+A simple and responsive Todo Application built with React.js. This project demonstrates the fundamentals of React, including component-based architecture, state management, and event handling for creating and managing daily tasks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Add new tasks.
+Mark tasks as completed.
+Delete tasks.
+Instant UI updates using React state.
+Clean and responsive user interface.
+🛠️ Tech Stack
+React.js
+JavaScript (ES6+)
+HTML5
+CSS3
+Vite
+🎯 Learning Outcomes
+React fundamentals
+React Hooks (useState)
+Event handling
+Conditional rendering
+Component-based architecture
+Responsive UI development
+👩‍💻 Author
 
-Currently, two official plugins are available:
+Namrata Panigrahy
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+GitHub: https://github.com/namrata-panigrahy-codes
